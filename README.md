@@ -17,6 +17,8 @@ PBR&B mixtape ex hoodie, brooklyn craft beer bicycle rights vexillologist stumpt
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ### Copyright
 
 2014 Git.Training.
