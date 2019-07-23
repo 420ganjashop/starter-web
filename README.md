@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Adding a line for rabasing example, then more changes from myfeature branch too
+This is a simple website project for showing how to use Git am Github together. Updating for emerency fix after stashing.
 
 
 ## Introduction
